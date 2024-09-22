@@ -1,0 +1,7 @@
+# ninja log v6
+8	1035	7467649465759983	CMakeFiles/mergeSort.dir/main.cpp.obj	b5fb1add9f9e18d8
+1037	1296	7467649476054023	mergeSort.exe	f03d7f47e7b9539e
+50	919	7467667721863331	CMakeFiles/mergeSort.dir/main.cpp.obj	b5fb1add9f9e18d8
+919	1107	7467667730555553	mergeSort.exe	f03d7f47e7b9539e
+10	723	7467669587564597	CMakeFiles/mergeSort.dir/main.cpp.obj	b5fb1add9f9e18d8
+723	878	7467669594697900	mergeSort.exe	f03d7f47e7b9539e
